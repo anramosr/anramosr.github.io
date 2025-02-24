@@ -36,10 +36,9 @@ sitemap: true
 
 <div class="content">
   <p><strong>Hello, welcome to my personal website!</strong></p>
-  <p> I am Andrey, a final-year Ph.D. in Economics student at <a href="https://economia.uc3m.es/personal/ramos/" target="_blank">Universidad Carlos III de Madrid (UC3M).</a> My research interests are centered around the intersection of <strong>time series econometrics, climate and environmental economics, and applied econometrics</strong>. I am writing my dissertation in quantitative climate economics under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo.</a></p>
-<p> Find here my <a href="CV_AndreyRamos.pdf" target="_blank">CV</a> and my <a href="JMP_AndreyRamos.pdf" target="_blank">Job Market Paper</a>.</p>
+  <p> I am Andrey, a final-year Ph.D. in Economics student at <a href="https://economia.uc3m.es/personal/ramos/" target="_blank">Universidad Carlos III de Madrid (UC3M).</a> My research interests are centered around the intersection of <strong>time series econometrics, climate and environmental economics, and applied econometrics</strong>. I am writing my dissertation under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo.</a></p>
 <p>
-<ul><li>More research <a href="https://anramosr.github.io/research/" target="_blank">here.</a> </li></ul>
+<ul><li> Find here my <a href="CV_AndreyRamos.pdf" target="_blank">CV</a> </li></ul>
 </p>
 <p>
 <ul><li>New <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank">publication on temperature trends</a> at <strong>Economics Letters</strong>.</li></ul>
