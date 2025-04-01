@@ -34,13 +34,16 @@ sitemap: true
   }
 </style>
 
-# Job Market Paper
-
-<li><a href="https://anramosr.github.io/JMP_AndreyRamos.pdf" target="_blank" style="font-weight: bold;">"Quantitative Analysis of Climate Heterogeneity via an Unconditional Quantile Vector Error Correction Model"</a></li>  
-<p></p>
-<strong>Abstract</strong>: This paper introduces a time-series methodology to quantify heterogeneity in the dynamics of the unconditional temperature distribution and its association with climate drivers. By recognizing that temperature unconditional quantiles represent temperatures at different locations—or seasons—, I establish an equivalence between a structural One-Dimensional Energy Balance Model (1D-EBM) and a statistical reduced-form Vector Error Correction Model (VECM) for a range of distributional characteristics of temperature—mean and quantiles—and total radiative forcing, including radiative forcing from anthropogenic greenhouse gases (GHGs). The VECM is estimated employing time-series methods agnostic about the type of trends (stochastic or deterministic) in climate data, and is utilized to produce the following outcomes of practical interest for economic analyses: <i>i)</i> estimation of long-run responses of temperature distribution to changes in GHGs, <i>ii)</i> long-term temperature density forecasts, <i>iii)</i> conditional projections of temperature distribution under different scenarios of future GHGs emissions, <i>iv)</i> extraction of the common-trending component behind the existing warming trend, and <i>v)</i> identification of distributional climate shocks and impulse-response analysis. An empirical study using station-level temperature records (1880–2021) reveals strong climate heterogeneity at global, hemispheric, and continental (Europe) scales, with important potential implications for damage analysis and integrated assessment modeling. A deeper understanding of global warming dynamics is crucial for informing more efficient adaptation and mitigation policies.
-
 <h1>Publications</h1>
+
+<li>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458" target="_blank" style="font-weight: bold;">"On the effects of wildfires on poverty in Bolivia"</a>, (2024) with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
+<br>
+  <span style="color: brown; font-weight: bold;">
+  Journal of Development Economics</span>, 175: 103494. doi.org/10.1016/j.jdeveco.2025.103494
+<br>
+</li>
+<p></p>
 
 <li>
   <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank" style="font-weight: bold;">"Trends in Temperature Data: Micro-foundations of Their Nature"</a>, (2024) with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>
@@ -72,9 +75,9 @@ sitemap: true
 
 <h1>Working Papers</h1>
 
-<li><a href="https://docs.iza.org/dp16988.pdf" target="_blank" style="font-weight: bold;">"On the Effects of Wildfires on Poverty in Bolivia"</a>, with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>. <span style="color: brown; font-weight: bold;">R&R Journal of Development Economics</span></li>
-<details><summary>Abstract</summary>
-<i>This paper examines the impact of severe wildfire events on Bolivia’s poverty and labor market outcomes. We construct a panel dataset from 2005 to 2020 at the municipality level utilizing NASA’s MODIS Collection-6 MCD64A1 burned area product, and merge it with household surveys. To attain survey representativeness at a given geographical level, we aggregate neighboring municipalities through the max-pregion algorithm. Using the Interactive Fixed Effects Counterfactual Estimator, we estimate the causal effects of severe wildfire events on poverty, household per-capita income, and the agricultural sector. We find a significant short-term increase in poverty explained by a temporary decline in household per capita and, specifically, agricultural labor income.</i></details>
+<li><a href="https://anramosr.github.io/JMP_AndreyRamos.pdf" target="_blank" style="font-weight: bold;">"Quantitative Analysis of Climate Heterogeneity via an Unconditional Quantile Vector Error Correction Model"</a></li>  
+<details><summary>Abstract</summary> 
+<i>This paper introduces a time-series methodology to quantify heterogeneity in the dynamics of the unconditional temperature distribution and its association with climate drivers. By recognizing that temperature unconditional quantiles represent temperatures at different locations—or seasons—, I establish an equivalence between a structural One-Dimensional Energy Balance Model (1D-EBM) and a statistical reduced-form Vector Error Correction Model (VECM) for a range of distributional characteristics of temperature—mean and quantiles—and total radiative forcing, including radiative forcing from anthropogenic greenhouse gases (GHGs). The VECM is estimated employing time-series methods agnostic about the type of trends (stochastic or deterministic) in climate data, and is utilized to produce the following outcomes of practical interest for economic analyses: <i>i)</i> estimation of long-run responses of temperature distribution to changes in GHGs, <i>ii)</i> long-term temperature density forecasts, <i>iii)</i> conditional projections of temperature distribution under different scenarios of future GHGs emissions, <i>iv)</i> extraction of the common-trending component behind the existing warming trend, and <i>v)</i> identification of distributional climate shocks and impulse-response analysis. An empirical study using station-level temperature records (1880–2021) reveals strong climate heterogeneity at global, hemispheric, and continental (Europe) scales, with important potential implications for damage analysis and integrated assessment modeling. A deeper understanding of global warming dynamics is crucial for informing more efficient adaptation and mitigation policies.</i></details>
 <p></p>
 
 <li><a href="https://anramosr.github.io/Canavire_Puerta_Ramos_Ecuador.pdf" target="_blank" style="font-weight: bold;">"The Heterogeneous Effects of Changes in Precipitation on Poverty and Labor Outcomes in Ecuador"</a>, with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
