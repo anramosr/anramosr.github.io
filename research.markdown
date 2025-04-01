@@ -37,7 +37,7 @@ sitemap: true
 <h1>Publications</h1>
 
 <li>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458" target="_blank" style="font-weight: bold;">"On the effects of wildfires on poverty in Bolivia"</a>, (2024) with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458" target="_blank" style="font-weight: bold;">"On the Effects of Wildfires on Poverty in Bolivia"</a>, (2024) with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
 <br>
   <span style="color: brown; font-weight: bold;">
   Journal of Development Economics</span>, 175: 103494. doi.org/10.1016/j.jdeveco.2025.103494
