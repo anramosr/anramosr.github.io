@@ -36,7 +36,7 @@ sitemap: true
 
 <div class="content">
 <p><strong>Hello, welcome to my personal website!</strong></p>
-<p> I obtained a Ph.D in Economics from Universidad Carlos III de Madrid (UC3M). My research interests are centered around the intersection of <strong>time series econometrics, climate and environmental economics, development economics, and applied econometrics</strong>.</p>
+<p> I received my Ph.D in Economics from Universidad Carlos III de Madrid (2025), supervised by Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo. My research interests are centered around the intersection of <strong>time series econometrics, climate and environmental economics, development economics, and applied econometrics</strong>.</p>
 <p>
 <ul><li> In September 2025, I will join the Bank of Spain as a Research Economist.</li></ul>
 </p>
