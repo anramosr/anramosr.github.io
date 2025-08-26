@@ -39,7 +39,6 @@ sitemap: true
 I received my Ph.D. in Economics (2025) from Universidad Carlos III de Madrid (UC3M), under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>. My research interests lie at the intersection of <strong>time series econometrics, climate and environmental economics, development economics, and applied econometrics</strong>.
 </p>
 <ul><li> In September 2025, I will join the Bank of Spain as a Research Economist.</li></ul>
-</p>
 <p>
 <ul><li> Find here my <a href="CV_AndreyRamos.pdf" target="_blank">CV</a>.</li></ul>
 </p>
