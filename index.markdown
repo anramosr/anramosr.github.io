@@ -39,6 +39,7 @@ sitemap: true
 <p> I am a Research Economist at the <strong>Economic Monitoring and Forecasting Division</strong> of the Bank of Spain.</p>
 <p> I received my Ph.D. in Economics (2025) at Universidad Carlos III de Madrid (UC3M), under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>.</p> 
 <p>  My research interests are in <strong>time series econometrics, climate and environmental economics, and applied econometrics</strong>.</p>
+<p>
 <ul><li> Please find here my <a href="CV_AndreyRamos.pdf" target="_blank">CV</a>.</li></ul>
 </p>
 <p>
