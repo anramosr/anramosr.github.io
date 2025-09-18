@@ -98,7 +98,7 @@ sitemap: true
 
 <h1>Work in Progress</h1>
 
-<li><a></a>Temperature Distributional Shocks: Identification and Macroeconomic effects (with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>)</li>
+<li><a></a>Temperature Distributional Shocks: Identification and Macroeconomic Effects (with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>)</li>
 <details>
 <summary>Abstract</summary>
 <i>This paper introduces a methodology to examine the macroeconomic impacts of temperature distributional shocks, that is, shocks to the average and quantiles of the temperature process. Distributional shocks are defined as persistent deviations from the long-run trend in the global and local temperature characteristics and are obtained using the Hamilton (2018) filter. Since these shocks are correlated, we employ a factor model to extract the sources of common variation. Our empirical analysis at the global, United States, and Euro Area levels consistently detects three uncorrelated factor shocks, each with significant macroeconomic implications. The first factor, capturing a general distributional effect, leads to persistent declines in output and total factor productivity, aligning with existing studies that treat average temperature as a suf ficient statistic for climate change. The key contribution of this paper to the literature is to
