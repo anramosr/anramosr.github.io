@@ -35,6 +35,7 @@ sitemap: true
 <img class="profile-pic" src="profile.jpg">
 
 <div class="content">
+<p> <strong>Hello and wecolme to my website!</strong></p>
 <p>
 I received my Ph.D. in Economics (2025) from Universidad Carlos III de Madrid (UC3M), under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>. My research interests lie at the intersection of <strong>time series econometrics, climate and environmental economics, development economics, and applied econometrics</strong>.
 </p>
