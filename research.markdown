@@ -60,6 +60,7 @@ sitemap: true
   <span style="color: brown; font-weight: bold;">
   Energy Economics</span>, doi.org/10.1016/j.eneco.2026.109228
 <br>
+<a href="https://github.com/anramosr/Jaulin-Ramos-2026-EnergyEconomics" target="_blank">Replication files</a>
 </li>
 <p></p>
 
