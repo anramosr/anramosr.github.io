@@ -41,11 +41,6 @@ sitemap: true
 <i>This paper introduces a time-series methodology to quantify heterogeneity in the dynamics of the unconditional temperature distribution and its association with climate drivers. By recognizing that temperature unconditional quantiles represent temperatures at different locations—or seasons—, I establish an equivalence between a structural One-Dimensional Energy Balance Model (1D-EBM) and a statistical reduced-form Vector Error Correction Model (VECM) for a range of distributional characteristics of temperature—mean and quantiles—and total radiative forcing, including radiative forcing from anthropogenic greenhouse gases (GHGs). The VECM is estimated employing time-series methods agnostic about the type of trends (stochastic or deterministic) in climate data, and is utilized to produce the following outcomes of practical interest for economic analyses: i) estimation of long-run responses of temperature distribution to changes in GHGs, ii) long-term temperature density forecasts, iii) conditional projections of temperature distribution under different scenarios of future GHGs emissions, iv) extraction of the common-trending component behind the existing warming trend, and v) identification of distributional climate shocks and impulse-response analysis. An empirical study using station-level temperature records (1880–2021) reveals strong climate heterogeneity at global, hemispheric, and continental (Europe) scales, with important potential implications for damage analysis and integrated assessment modeling. A deeper understanding of global warming dynamics is crucial for informing more efficient adaptation and mitigation policies.</i></details>
 <p></p>
 
-<li><a href="https://arxiv.org/abs/2507.18386" target="_blank" style="font-weight: bold;">"Becoming Green: Decomposing the Macroeconomic Effects of Green Technology News Shocks"</a>, with <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulín</a>
-<details><summary>Abstract</summary>
-<i>This paper studies the macroeconomic effects of news about future technological advancements in the green sector. Utilizing the economic value of green patents granted to publicly listed companies in the U.S., we identify green technology news shocks via a convenient and meaningful rotation of the innovations from a Bayesian Vector Autorregresion Model (BVAR). These shocks are decomposed into two orthogonal components: i) a common technological component shared by both green and non-green innovation, that reproduces response patterns similar to those expected from a technology news shock with long-run impacts on productivity; and ii) an idiosyncratic component to green innovation inducing inflationary pressures and stock price reductions. The responses to the idiosyncratic component suggest the existence of a green transition news mechanism related to expectations of more rigorous carbon policies or stricter environmental standards in the future. The focus on green innovation deepens our understanding about the effect of technology-specific news shocks and provides information of practical importance for macroeconomic and environmental policies.</i></details>
-<p></p>
-
 <li><a href="https://arxiv.org/abs/2501.03380" target="_blank" style="font-weight: bold;">"High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S."</a>, with <a href="https://ignaciogarron.github.io/" target="_blank">Ignacio Garrón</a>
 <details><summary>Abstract</summary>
 <i>Accurate tracking of anthropogenic carbon dioxide (CO2) emissions is crucial for shaping climate policies and meeting global decarbonization targets. However, energy consumption and emissions data are released annually and with substantial publication lags, hindering timely decision-making. This paper introduces a panel nowcasting framework to produce higher-frequency predictions of the state-level growth rate of per-capita energy consumption and CO2 emissions in the United States (U.S.). Our approach employs a panel mixed-data sampling (MIDAS) model to predict per-capita energy consumption growth, considering quarterly personal income, monthly electricity consumption, and the weekly economic conditions index as predictors. A bridge equation linking per-capita CO2 emissions growth with the nowcasts of energy consumption is estimated using panel quantile regression methods. A pseudo out-of-sample study (2009-2018), simulating the real-time data release calendar, confirms the improved accuracy of our nowcasts with respect to a historical benchmark. Our results suggest that by leveraging the availability of higher-frequency indicators, we not only enhance predictive accuracy for per-capita energy consumption growth but also provide more reliable estimates of the distribution of CO2 emissions growth.</i></details>
@@ -60,10 +55,19 @@ sitemap: true
 <h1>Publications</h1>
 
 <li>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988326001076" target="_blank" style="font-weight: bold;">"Becoming green: Decomposing the macroeconomic effects of green technology news shocks"</a>, (2026) with <a href="https://oscarjaulin.github.io/" target="_blank">Oscar Jaulín</a>
+<br>
+  <span style="color: brown; font-weight: bold;">
+  Energy Economics</span>, doi.org/10.1016/j.eneco.2026.109228
+<br>
+</li>
+<p></p>
+
+<li>
   <a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" style="font-weight: bold;">"Estimation of quantile regressions with fixed effects"</a>, (2026) with <a href="https://friosavila.github.io/" target="_blank">Fernando Ríos-Ávila</a>, <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and Leonardo Siles
 <br>
   <span style="color: brown; font-weight: bold;">
-  The Stata Journal</span>, 26(1): doi.org/10.1177/1536867X26142579.
+  The Stata Journal</span>, 26(1):111-131. doi.org/10.1177/1536867X261425793
 <br>
 </li>
 <p></p>
