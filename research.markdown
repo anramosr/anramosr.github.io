@@ -60,6 +60,15 @@ sitemap: true
 <h1>Publications</h1>
 
 <li>
+  <a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" style="font-weight: bold;">"Estimation of quantile regressions with fixed effects"</a>, (2026) with <a href="https://friosavila.github.io/" target="_blank">Fernando Ríos-Ávila</a>, <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and Leonardo Siles
+<br>
+  <span style="color: brown; font-weight: bold;">
+  The Stata Journal</span>, 26(1): doi.org/10.1177/1536867X26142579.
+<br>
+</li>
+<p></p>
+
+<li>
   <a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458" target="_blank" style="font-weight: bold;">"On the Effects of Wildfires on Poverty in Bolivia"</a>, (2025) with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
 <br>
   <span style="color: brown; font-weight: bold;">
