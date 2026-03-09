@@ -55,7 +55,7 @@ sitemap: true
 <h1>Publications</h1>
 
 <li>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988326001076" target="_blank" style="font-weight: bold;">"Becoming green: Decomposing the macroeconomic effects of green technology news shocks"</a>, (2026) with <a href="https://oscarjaulin.github.io/" target="_blank">Oscar Jaulín</a>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988326001076" target="_blank" style="font-weight: bold;">"Becoming Green: Decomposing the Macroeconomic Effects of Green Technology News Shocks"</a>, (2026) with <a href="https://oscarjaulin.github.io/" target="_blank">Oscar Jaulín</a>
 <br>
   <span style="color: brown; font-weight: bold;">
   Energy Economics</span>, doi.org/10.1016/j.eneco.2026.109228
@@ -64,7 +64,7 @@ sitemap: true
 <p></p>
 
 <li>
-  <a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" style="font-weight: bold;">"Estimation of quantile regressions with fixed effects"</a>, (2026) with <a href="https://friosavila.github.io/" target="_blank">Fernando Ríos-Ávila</a>, <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and Leonardo Siles
+  <a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" style="font-weight: bold;">"Estimation of Quantile Regressions with Fixed Effects"</a>, (2026) with <a href="https://friosavila.github.io/" target="_blank">Fernando Ríos-Ávila</a>, <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and Leonardo Siles
 <br>
   <span style="color: brown; font-weight: bold;">
   The Stata Journal</span>, 26(1):111-131. doi.org/10.1177/1536867X261425793
