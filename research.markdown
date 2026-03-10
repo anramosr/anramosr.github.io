@@ -58,7 +58,7 @@ sitemap: true
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988326001076" target="_blank" style="font-weight: bold;">"Becoming Green: Decomposing the Macroeconomic Effects of Green Technology News Shocks"</a>, (2026) with <a href="https://oscarjaulin.github.io/" target="_blank">Oscar Jaulín</a>
 <br>
   <span style="color: brown; font-weight: bold;">
-  Energy Economics</span>, doi.org/10.1016/j.eneco.2026.109228
+  Energy Economics</span>, 157: 109228. doi.org/10.1016/j.eneco.2026.109228
 <br>
 <a href="https://github.com/anramosr/Jaulin-Ramos-2026-EnergyEconomics" target="_blank">Replication files</a>
 </li>
