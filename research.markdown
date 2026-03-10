@@ -68,7 +68,7 @@ sitemap: true
   <a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" style="font-weight: bold;">"Estimation of Quantile Regressions with Fixed Effects"</a>, (2026) with <a href="https://friosavila.github.io/" target="_blank">Fernando Ríos-Ávila</a>, <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and Leonardo Siles
 <br>
   <span style="color: brown; font-weight: bold;">
-  The Stata Journal</span>, 26(1):111-131. doi.org/10.1177/1536867X261425793
+  The Stata Journal</span>, 26(1): 111-131. doi.org/10.1177/1536867X261425793
 <br>
 </li>
 <p></p>
