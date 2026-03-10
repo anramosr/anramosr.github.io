@@ -58,7 +58,7 @@ sitemap: true
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988326001076" target="_blank" style="font-weight: bold;">"Becoming Green: Decomposing the Macroeconomic Effects of Green Technology News Shocks"</a>, (2026) with <a href="https://oscarjaulin.github.io/" target="_blank">Oscar Jaulín</a>
 <br>
   <span style="color: brown; font-weight: bold;">
-  Energy Economics</span>, 157: 109228. doi.org/10.1016/j.eneco.2026.109228
+  Energy Economics</span>, 157: 109228. doi: 10.1016/j.eneco.2026.109228
 <br>
 <a href="https://github.com/anramosr/Jaulin-Ramos-2026-EnergyEconomics" target="_blank">Replication files</a>
 </li>
@@ -68,7 +68,7 @@ sitemap: true
   <a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" style="font-weight: bold;">"Estimation of Quantile Regressions with Fixed Effects"</a>, (2026) with <a href="https://friosavila.github.io/" target="_blank">Fernando Ríos-Ávila</a>, <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and Leonardo Siles
 <br>
   <span style="color: brown; font-weight: bold;">
-  The Stata Journal</span>, 26(1): 111-131. doi.org/10.1177/1536867X261425793
+  The Stata Journal</span>, 26(1): 111-131. doi: 10.1177/1536867X261425793
 <br>
 </li>
 <p></p>
@@ -77,7 +77,7 @@ sitemap: true
   <a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458" target="_blank" style="font-weight: bold;">"On the Effects of Wildfires on Poverty in Bolivia"</a>, (2025) with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
 <br>
   <span style="color: brown; font-weight: bold;">
-  Journal of Development Economics</span>, 175: 103494. doi.org/10.1016/j.jdeveco.2025.103494
+  Journal of Development Economics</span>, 175: 103494. doi: 10.1016/j.jdeveco.2025.103494
 <br>
 </li>
 <p></p>
