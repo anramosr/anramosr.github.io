@@ -1,9 +1,9 @@
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Georgia', 'Times New Roman', serif;
   background: #fbf8f3;
-  color: #1a1a1a;
+  color: #111111;
   margin: 0;
-  line-height: 1.45;
+  line-height: 1.5;
 }
 
 a {
@@ -47,22 +47,23 @@ a:hover {
 }
 
 .photo {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
+  width: 190px;
+  height: 190px;
+  border-radius: 0;
   object-fit: cover;
   object-position: center top;
+  border: 1px solid #d8cec1;
 }
 
 .name-title {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   margin-bottom: 0.25rem;
 }
 
 .subtitle,
 .small-meta,
 .meta {
-  color: #555;
+  color: #303030;
 }
 
 .subtitle {
@@ -72,6 +73,11 @@ a:hover {
 .meta {
   font-size: 0.95rem;
   margin-bottom: 0.55rem;
+}
+
+.meta strong,
+.small-meta strong {
+  color: #191919;
 }
 
 .links a {
@@ -101,13 +107,13 @@ a:hover {
 }
 
 .section-title {
-  font-size: 1.3rem;
+  font-size: 1.35rem;
   margin: 0;
   line-height: 1.1;
 }
 
 .subsection-title {
-  font-size: 1.08rem;
+  font-size: 1.12rem;
   margin: 0 0 0.25rem;
 }
 
@@ -141,12 +147,19 @@ a:hover {
 }
 
 .abstract {
-  background: #fbf8f3;
-  padding: 0.75rem;
-  border-left: 3px solid #343a40;
-  margin-top: 0.5rem;
+  background: #f4efe7;
+  padding: 0.85rem 0.95rem;
+  border-left: 2px solid #8f2546;
+  margin-top: 0.6rem;
   display: none;
-  font-size: 0.9rem;
+  font-size: 0.92rem;
+  color: #252525;
+  font-style: italic;
+}
+
+.journal {
+  color: #8f2546;
+  font-weight: 600;
 }
 
 .footer {
@@ -164,5 +177,10 @@ a:hover {
 @media (max-width: 767.98px) {
   .right-block {
     padding-top: 0;
+  }
+
+  .photo {
+    width: 170px;
+    height: 170px;
   }
 }
