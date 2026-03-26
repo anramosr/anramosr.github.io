@@ -20,6 +20,7 @@
 
 title: Andrey D. Ramos-Ramirez
 email: anramosr@eco.uc3m.es
+description: Personal academic website of Andrey D. Ramos-Ramirez.
 url: "https://anramosr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 twitter_username: anramosr

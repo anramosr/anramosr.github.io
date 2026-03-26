@@ -5,121 +5,93 @@ permalink: /research/
 sitemap: true
 ---
 
-<style>
-  body {
-    text-align: justify;
-  }
-  p {
-    margin-bottom: 20px;
-    text-align: justify;
-  }
-  li {
-    text-align: justify;
-  }
-  details summary {
-    cursor: pointer;
-    margin-bottom: 10px;
-  }
-  details[open] summary ~ * {
-    animation: openAnimation 0.3s ease-in-out;
-  }
-  @keyframes openAnimation {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  details i {
-    display: block;
-    text-align: justify;
-    margin-top: 10px;
-  }
-</style>
+<section class="content-section">
+  <h2 class="content-section-title">Working Papers</h2>
 
-<h1>Working Papers</h1>
+  <div class="entry">
+    <h3 class="entry-title"><a href="{{ '/JMP_AndreyRamos.pdf' | relative_url }}" target="_blank" rel="noopener">Quantitative Analysis of Climate Heterogeneity via an Unconditional Quantile Vector Error Correction Model</a></h3>
+    <button class="toggle-button" type="button" onclick="toggleAbstract(this)">Show Abstract</button>
+    <div class="abstract-panel">
+      This paper introduces a time-series methodology to quantify heterogeneity in the dynamics of the unconditional temperature distribution and its association with climate drivers. By recognizing that temperature unconditional quantiles represent temperatures at different locations or seasons, I establish an equivalence between a structural one-dimensional energy balance model and a reduced-form vector error correction model for the mean and quantiles of temperature together with total radiative forcing, including greenhouse gases. The framework is used to estimate long-run responses, generate density forecasts, produce scenario-based projections, extract the common trend behind warming, and identify distributional climate shocks. Evidence from station-level temperature records for 1880-2021 reveals strong climate heterogeneity at global, hemispheric, and continental levels.
+    </div>
+  </div>
 
-<li><a href="https://anramosr.github.io/JMP_AndreyRamos.pdf" target="_blank" style="font-weight: bold;">"Quantitative Analysis of Climate Heterogeneity via an Unconditional Quantile Vector Error Correction Model"</a></li>  
-<details><summary>Abstract</summary> 
-<i>This paper introduces a time-series methodology to quantify heterogeneity in the dynamics of the unconditional temperature distribution and its association with climate drivers. By recognizing that temperature unconditional quantiles represent temperatures at different locations—or seasons—, I establish an equivalence between a structural One-Dimensional Energy Balance Model (1D-EBM) and a statistical reduced-form Vector Error Correction Model (VECM) for a range of distributional characteristics of temperature—mean and quantiles—and total radiative forcing, including radiative forcing from anthropogenic greenhouse gases (GHGs). The VECM is estimated employing time-series methods agnostic about the type of trends (stochastic or deterministic) in climate data, and is utilized to produce the following outcomes of practical interest for economic analyses: i) estimation of long-run responses of temperature distribution to changes in GHGs, ii) long-term temperature density forecasts, iii) conditional projections of temperature distribution under different scenarios of future GHGs emissions, iv) extraction of the common-trending component behind the existing warming trend, and v) identification of distributional climate shocks and impulse-response analysis. An empirical study using station-level temperature records (1880–2021) reveals strong climate heterogeneity at global, hemispheric, and continental (Europe) scales, with important potential implications for damage analysis and integrated assessment modeling. A deeper understanding of global warming dynamics is crucial for informing more efficient adaptation and mitigation policies.</i></details>
-<p></p>
+  <div class="entry">
+    <h3 class="entry-title"><a href="https://arxiv.org/abs/2501.03380" target="_blank" rel="noopener">High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S.</a></h3>
+    <p class="entry-meta">with <a href="https://ignaciogarron.github.io/" target="_blank" rel="noopener">Ignacio Garron</a></p>
+    <button class="toggle-button" type="button" onclick="toggleAbstract(this)">Show Abstract</button>
+    <div class="abstract-panel">
+      Accurate tracking of anthropogenic carbon dioxide emissions is crucial for shaping climate policies and meeting global decarbonization targets. This paper introduces a panel nowcasting framework to obtain higher-frequency predictions of state-level per-capita energy consumption and CO2 emissions growth in the United States. The approach combines a panel MIDAS specification for energy consumption with a bridge equation that links emissions growth to those nowcasts using panel quantile regression methods. A pseudo out-of-sample exercise for 2009-2018 shows gains in predictive accuracy relative to a historical benchmark and supports the use of higher-frequency indicators for more reliable density estimates.
+    </div>
+  </div>
 
-<li><a href="https://arxiv.org/abs/2501.03380" target="_blank" style="font-weight: bold;">"High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S."</a>, with <a href="https://ignaciogarron.github.io/" target="_blank">Ignacio Garrón</a>
-<details><summary>Abstract</summary>
-<i>Accurate tracking of anthropogenic carbon dioxide (CO2) emissions is crucial for shaping climate policies and meeting global decarbonization targets. However, energy consumption and emissions data are released annually and with substantial publication lags, hindering timely decision-making. This paper introduces a panel nowcasting framework to produce higher-frequency predictions of the state-level growth rate of per-capita energy consumption and CO2 emissions in the United States (U.S.). Our approach employs a panel mixed-data sampling (MIDAS) model to predict per-capita energy consumption growth, considering quarterly personal income, monthly electricity consumption, and the weekly economic conditions index as predictors. A bridge equation linking per-capita CO2 emissions growth with the nowcasts of energy consumption is estimated using panel quantile regression methods. A pseudo out-of-sample study (2009-2018), simulating the real-time data release calendar, confirms the improved accuracy of our nowcasts with respect to a historical benchmark. Our results suggest that by leveraging the availability of higher-frequency indicators, we not only enhance predictive accuracy for per-capita energy consumption growth but also provide more reliable estimates of the distribution of CO2 emissions growth.</i></details>
-<p></p>
+  <div class="entry">
+    <h3 class="entry-title"><a href="{{ '/Canavire_Ramos_Puerta_Ecuador.pdf' | relative_url }}" target="_blank" rel="noopener">Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador</a></h3>
+    <p class="entry-meta">with <a href="https://gcanavire.com/" target="_blank" rel="noopener">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank" rel="noopener">Alejandro Puerta</a></p>
+    <button class="toggle-button" type="button" onclick="toggleAbstract(this)">Show Abstract</button>
+    <div class="abstract-panel">
+      This paper examines the heterogeneous effects of precipitation shocks on poverty in Ecuador. Using gridded monthly precipitation data for 2007-2021 merged with household information from ENEMDU, the paper constructs measures of excess and deficit rainfall at the parish level. The results show that precipitation shocks significantly affect poverty, with stronger adverse effects in primary-sector employment and more mixed effects in secondary and tertiary activities. Household income and labor earnings emerge as key transmission channels, and the effects vary by formality, urban status, and self-employment.
+    </div>
+  </div>
+</section>
 
-<li><a href="https://anramosr.github.io/Canavire_Ramos_Puerta_Ecuador.pdf" target="_blank" style="font-weight: bold;">"Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador"</a>, with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
-<details><summary>Abstract</summary>
-<i>This paper examines the heterogeneous effect of precipitation shocks on poverty status in Ecuador. Using gridded monthly precipitation data from 2007 to 2021, we define measures for the excess and deficit in precipitation levels at the parish geographical level. Weather data are merged with household socioeconomic information derived from the National Survey of Employment, Unemployment, and Underemployment (ENEMDU). Our empirical findings reveal that both excess and deficit in precipitation significantly affect poverty status, with considerable heterogeneity across economic sectors. Variations in the Standardized Precipitation Index, whether positive or negative, lead to an increased probability of poverty among workers in the primary sector. In contrast, we find poverty-reducing effects in the secondary and tertiary sectors, with their magnitude being shaped by formality status, urban/rural location, and self-employment status. The analysis identifies per-capita household income and labor earnings as key transmission channels, with precipitation shocks having redistributive effects on labor income in the tertiary sector, while amplifying inequality in the primary sector.</i></details>
-<p></p>
+<section class="content-section">
+  <h2 class="content-section-title">Publications</h2>
 
+  <div class="entry">
+    <h3 class="entry-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988326001076" target="_blank" rel="noopener">Becoming Green: Decomposing the Macroeconomic Effects of Green Technology News Shocks</a></h3>
+    <p class="entry-meta">with <a href="https://oscarjaulin.github.io/" target="_blank" rel="noopener">Oscar Jaulin</a></p>
+    <p class="entry-meta"><strong>Energy Economics</strong>, 157: 109228, 2026. DOI: 10.1016/j.eneco.2026.109228</p>
+    <p class="entry-note"><a href="https://github.com/anramosr/Jaulin-Ramos-2026-EnergyEconomics" target="_blank" rel="noopener">Replication files</a></p>
+  </div>
 
-<h1>Publications</h1>
+  <div class="entry">
+    <h3 class="entry-title"><a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" rel="noopener">Estimation of Quantile Regressions with Fixed Effects</a></h3>
+    <p class="entry-meta">with <a href="https://friosavila.github.io/" target="_blank" rel="noopener">Fernando Rios-Avila</a>, <a href="https://gcanavire.com/" target="_blank" rel="noopener">Gustavo Canavire</a>, and Leonardo Siles</p>
+    <p class="entry-meta"><strong>The Stata Journal</strong>, 26(1): 111-131, 2026. DOI: 10.1177/1536867X261425793</p>
+  </div>
 
-<li>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0140988326001076" target="_blank" style="font-weight: bold;">"Becoming Green: Decomposing the Macroeconomic Effects of Green Technology News Shocks"</a>, (2026) with <a href="https://oscarjaulin.github.io/" target="_blank">Oscar Jaulín</a>
-<br>
-  <span style="color: brown; font-weight: bold;">
-  Energy Economics</span>, 157: 109228. doi: 10.1016/j.eneco.2026.109228
-<br>
-<a href="https://github.com/anramosr/Jaulin-Ramos-2026-EnergyEconomics" target="_blank">Replication files</a>
-</li>
-<p></p>
+  <div class="entry">
+    <h3 class="entry-title"><a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458" target="_blank" rel="noopener">On the Effects of Wildfires on Poverty in Bolivia</a></h3>
+    <p class="entry-meta">with <a href="https://gcanavire.com/" target="_blank" rel="noopener">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank" rel="noopener">Alejandro Puerta</a></p>
+    <p class="entry-meta"><strong>Journal of Development Economics</strong>, 175: 103494, 2025. DOI: 10.1016/j.jdeveco.2025.103494</p>
+  </div>
 
-<li>
-  <a href="https://journals.sagepub.com/doi/abs/10.1177/1536867X261425793" target="_blank" style="font-weight: bold;">"Estimation of Quantile Regressions with Fixed Effects"</a>, (2026) with <a href="https://friosavila.github.io/" target="_blank">Fernando Ríos-Ávila</a>, <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and Leonardo Siles
-<br>
-  <span style="color: brown; font-weight: bold;">
-  The Stata Journal</span>, 26(1): 111-131. doi: 10.1177/1536867X261425793
-<br>
-</li>
-<p></p>
+  <div class="entry">
+    <h3 class="entry-title"><a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank" rel="noopener">Trends in Temperature Data: Micro-foundations of Their Nature</a></h3>
+    <p class="entry-meta">with <a href="http://www.lolagadea.com/" target="_blank" rel="noopener">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank" rel="noopener">Jesus Gonzalo</a></p>
+    <p class="entry-meta"><strong>Economics Letters</strong>, 244: 111992, 2024. DOI: 10.1016/j.econlet.2024.111992</p>
+    <p class="entry-note"><a href="https://github.com/anramosr/Gadea-Gonzalo-Ramos-Trends-2024" target="_blank" rel="noopener">Replication files</a></p>
+  </div>
 
-<li>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458" target="_blank" style="font-weight: bold;">"On the Effects of Wildfires on Poverty in Bolivia"</a>, (2025) with <a href="https://gcanavire.com/" target="_blank">Gustavo Canavire</a> and <a href="https://sites.google.com/view/alejandro-puerta/" target="_blank">Alejandro Puerta</a>
-<br>
-  <span style="color: brown; font-weight: bold;">
-  Journal of Development Economics</span>, 175: 103494. doi: 10.1016/j.jdeveco.2025.103494
-<br>
-</li>
-<p></p>
+  <div class="entry">
+    <h3 class="entry-title"><a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank" rel="noopener">Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?</a></h3>
+    <p class="entry-meta">with <a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank" rel="noopener">Evi Pappa</a> and <a href="https://sites.google.com/view/evella/home" target="_blank" rel="noopener">Eugenia Vella</a></p>
+    <p class="entry-meta"><strong>SERIEs</strong>, 15: 327-348, 2024. DOI: 10.1007/s13209-023-00288-w</p>
+    <p class="entry-note"><a href="https://github.com/anramosr/Pappa-Ramos-Vella-COVID19" target="_blank" rel="noopener">Replication files</a></p>
+  </div>
 
-<li>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0165176524004762?via%3Dihub" target="_blank" style="font-weight: bold;">"Trends in Temperature Data: Micro-foundations of Their Nature"</a>, (2024) with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>
-<br>
-  <span style="color: brown; font-weight: bold;">
-  Economics Letters</span>, 244: 111992. doi: 10.1016/j.econlet.2024.111992
-<br>
-<a href="https://github.com/anramosr/Gadea-Gonzalo-Ramos-Trends-2024" target="_blank">Replication files</a>
-</li>
-<p></p>
+  <div class="entry">
+    <h3 class="entry-title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12491" target="_blank" rel="noopener">Heterogeneous Predictive Association of CO2 with Global Warming</a></h3>
+    <p class="entry-meta">with <a href="https://sites.google.com/view/liangchen-phbs" target="_blank" rel="noopener">Liang Chen</a>, <a href="https://dolado.blogspot.com/" target="_blank" rel="noopener">Juan J. Dolado</a>, and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank" rel="noopener">Jesus Gonzalo</a></p>
+    <p class="entry-meta"><strong>Economica</strong>, 90(360): 1397-1421, 2023. DOI: 10.1111/ecca.12491</p>
+  </div>
+</section>
 
-<li>
-  <a href="https://link.springer.com/article/10.1007/s13209-023-00288-w" target="_blank" style="font-weight: bold;">"Which Crisis Support Fiscal Measures Worked During the Covid-19 Shock in Europe?"</a>, (2024) with <a href="https://sites.google.com/site/evipappapersonalhomepage/home" target="_blank">Evi Pappa</a> and <a href="https://sites.google.com/view/evella/home" target="_blank">Eugenia Vella</a>
-<br>
-  <span style="color: brown; font-weight: bold;">
-  SERIEs Journal of the Spanish Economics Association</span>, 15: 327-348. doi: 10.1007/s13209-023-00288-w
-<br>
-<a href="https://github.com/anramosr/Pappa-Ramos-Vella-COVID19" target="_blank">Replication files</a>
-</li>
-<p></p>
+<section class="content-section">
+  <h2 class="content-section-title">Work in Progress</h2>
 
-<li>
-  <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecca.12491" target="_blank" style="font-weight: bold;">"Heterogeneous Predictive Association of CO2 with Global Warming"</a>, (2023) with <a href="https://sites.google.com/view/liangchen-phbs" target="_blank">Liang Chen</a>, <a href="https://dolado.blogspot.com/" target="_blank">Juan J. Dolado</a>, and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank"> Jesús Gonzalo</a>
-<br>
-  <span style="color: brown; font-weight: bold;">
-  Economica</span>, 90(360): 1397-1421. doi: 10.1111/ecca.12491
-</li>
-<p></p>
+  <div class="entry">
+    <h3 class="entry-title">Temperature Distributional Shocks: Identification and Macroeconomic Effects</h3>
+    <p class="entry-meta">with <a href="http://www.lolagadea.com/" target="_blank" rel="noopener">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank" rel="noopener">Jesus Gonzalo</a></p>
+    <button class="toggle-button" type="button" onclick="toggleAbstract(this)">Show Abstract</button>
+    <div class="abstract-panel">
+      This paper introduces a methodology to examine the macroeconomic effects of temperature distributional shocks, meaning shocks to the average and quantiles of the temperature process. The shocks are defined as persistent deviations from the long-run trend and are obtained using the Hamilton filter. Because the shocks are correlated, a factor model is used to extract the main sources of common variation. The analysis for the global economy, the United States, and the euro area identifies three orthogonal factor shocks with meaningful macroeconomic effects, including channels that are not captured by average temperature alone.
+    </div>
+  </div>
 
-<h1>Work in Progress</h1>
-
-<li><a></a>Temperature Distributional Shocks: Identification and Macroeconomic Effects (with <a href="http://www.lolagadea.com/" target="_blank">Lola Gadea</a> and <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank">Jesús Gonzalo</a>)</li>
-<details>
-<summary>Abstract</summary>
-<i>This paper introduces a methodology to examine the macroeconomic impacts of temperature distributional shocks, that is, shocks to the average and quantiles of the temperature process. Distributional shocks are defined as persistent deviations from the long-run trend in the global and local temperature characteristics and are obtained using the Hamilton (2018) filter. Since these shocks are correlated, we employ a factor model to extract the sources of common variation. Our empirical analysis at the global, United States, and Euro Area levels consistently detects three uncorrelated factor shocks, each with significant macroeconomic implications. The first factor, capturing a general distributional effect, leads to persistent declines in output and total factor productivity, aligning with existing studies that treat average temperature as a suf ficient statistic for climate change. The key contribution of this paper to the literature is to
-uncover two additional factors that do not correlate with the average temperature, but instead influence different parts of the distribution in particular ways. These factors induce additional macroeconomic impacts that have not been documented in previous literature. For instance, the third factor—which affects the lower and the upper extremes of the global or local temperature distributions in the same direction—reduces output and productivity, particularly in the Euro Area. Our findings underscore the usefulness of analyzing the effects of shocks to the full temperature distribution and carry important implications for estimating the social cost of carbon and assessing climate-related economic risks.</i>
-</details>
-<p></p>
-
-<li>Macroeconomic Outcomes at Risk and the Time-Varying Effect of Climate Shocks (with <a href="https://ignaciogarron.github.io/" target="_blank">Ignacio Garrón</a> and <a href="https://oscarjaulin.com/" target="_blank">Oscar Jaulín</a>)</li>
-<p></p>
-
+  <div class="entry">
+    <h3 class="entry-title">Macroeconomic Outcomes at Risk and the Time-Varying Effect of Climate Shocks</h3>
+    <p class="entry-meta">with <a href="https://ignaciogarron.github.io/" target="_blank" rel="noopener">Ignacio Garron</a> and <a href="https://oscarjaulin.com/" target="_blank" rel="noopener">Oscar Jaulin</a></p>
+  </div>
+</section>

@@ -1,5 +1,275 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
+:root {
+  --bg: #fbf8f3;
+  --surface: #fffdf8;
+  --text: #1a1a1a;
+  --muted: #5f5a52;
+  --line: #ddd4c7;
+  --nav: #232323;
+  --nav-hover: #f2e8db;
+  --link: #0d6efd;
+  --button: #333333;
+  --button-hover: #1f1f1f;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-navbar {
+  background: var(--nav);
+}
+
+.site-nav-inner {
+  max-width: 1160px;
+  padding: 0.35rem 1rem;
+}
+
+.site-brand,
+.navbar-dark .navbar-nav .nav-link {
+  font-weight: 600;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link.active {
+  color: var(--nav-hover);
+}
+
+.site-main {
+  max-width: 1080px;
+  padding: 2rem 1rem 1rem;
+}
+
+.site-footer {
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.home-grid {
+  align-items: start;
+  row-gap: 1.5rem;
+}
+
+.profile-panel {
+  text-align: center;
+}
+
+.profile-photo {
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.profile-name {
+  margin: 0.9rem 0 0.2rem;
+  font-size: 1.55rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.profile-role,
+.profile-affiliation {
+  margin: 0;
+  color: var(--muted);
+}
+
+.intro-panel {
+  padding-top: 0.75rem;
+}
+
+.lead-text,
+.intro-panel p,
+.intro-panel li {
+  font-size: 1rem;
+}
+
+.meta-line {
+  margin-bottom: 0.65rem;
+}
+
+.profile-links {
+  margin: 1rem 0 0.75rem;
+}
+
+.profile-links a {
+  display: inline-block;
+  margin-right: 0.55rem;
+}
+
+.cv-button {
+  display: inline-block;
+  margin-top: 0.35rem;
+  padding: 0.5rem 1rem;
+  background: var(--button);
+  color: #fff;
+  border-radius: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.cv-button:hover {
+  background: var(--button-hover);
+  color: #fff;
+  text-decoration: none;
+}
+
+.page-shell {
+  padding-top: 2.2rem;
+}
+
+.section-row {
+  margin-bottom: 2.5rem;
+}
+
+.section-label {
+  padding-right: 1.2rem;
+}
+
+.section-heading {
+  margin: 0;
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.section-content > h1,
+.section-content > h2,
+.section-content > h3 {
+  margin-top: 0;
+}
+
+.content-section {
+  margin-bottom: 2.25rem;
+}
+
+.content-section:last-child {
+  margin-bottom: 0;
+}
+
+.content-section-title {
+  margin: 0 0 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.entry {
+  margin-bottom: 1.6rem;
+}
+
+.entry:last-child {
+  margin-bottom: 0;
+}
+
+.entry-title {
+  margin: 0 0 0.3rem;
+  font-size: 1.08rem;
+  font-weight: 700;
+}
+
+.entry-meta {
+  margin: 0.2rem 0;
+  color: var(--muted);
+  font-size: 0.96rem;
+}
+
+.entry-note {
+  margin-top: 0.35rem;
+  font-size: 0.96rem;
+}
+
+.toggle-button {
+  margin-top: 0.45rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid #9d9486;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text);
+  font-size: 0.8rem;
+}
+
+.toggle-button:hover {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.abstract-panel {
+  display: none;
+  margin-top: 0.75rem;
+  padding: 0.9rem 1rem;
+  border-left: 3px solid var(--nav);
+  background: rgba(255, 255, 255, 0.5);
+  font-size: 0.95rem;
+}
+
+.abstract-panel.is-open {
+  display: block;
+}
+
+.cv-embed {
+  width: 100%;
+  min-height: 78vh;
+  border: 1px solid var(--line);
+  border-radius: 0.4rem;
+  background: #fff;
+}
+
+.teaching-list,
+.simple-list {
+  padding-left: 1.1rem;
+}
+
+.teaching-list li,
+.simple-list li {
+  margin-bottom: 0.35rem;
+}
+
+@media (max-width: 767.98px) {
+  .site-main {
+    padding-top: 1.5rem;
+  }
+
+  .profile-photo {
+    width: 170px;
+    height: 170px;
+  }
+
+  .intro-panel {
+    padding-top: 0;
+  }
+
+  .section-label {
+    margin-bottom: 1rem;
+    padding-right: 0.75rem;
+  }
+
+  .section-heading {
+    font-size: 1.3rem;
+  }
+}
