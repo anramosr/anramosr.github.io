@@ -1,5 +1,5 @@
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Lato', sans-serif;
   background: #fbf8f3;
   color: #111111;
   margin: 0;
@@ -68,6 +68,8 @@ a:hover {
 
 .subtitle {
   margin: 0;
+  color: #2d61a9;
+  font-style: italic;
 }
 
 .meta {
@@ -117,6 +119,11 @@ a:hover {
   margin: 0 0 0.25rem;
 }
 
+.publication-item {
+  padding-left: 0.9rem;
+  border-left: 3px solid #d7a8b6;
+}
+
 .small-meta {
   font-size: 0.95rem;
   margin: 0.25rem 0;
@@ -149,7 +156,7 @@ a:hover {
 .abstract {
   background: #f4efe7;
   padding: 0.85rem 0.95rem;
-  border-left: 2px solid #8f2546;
+  border-left: 2px solid #a32642;
   margin-top: 0.6rem;
   display: none;
   font-size: 0.92rem;
@@ -159,8 +166,12 @@ a:hover {
 }
 
 .journal {
-  color: #8f2546;
+  color: #b22234;
   font-weight: 600;
+}
+
+.coauthor {
+  font-style: italic;
 }
 
 .footer {
