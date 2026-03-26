@@ -24,7 +24,7 @@ a:hover {
 }
 
 .site-nav {
-  background: #31493c;
+  background: #17241d;
 }
 
 .site-wrap {
@@ -69,7 +69,7 @@ a:hover {
 
 .subtitle {
   margin: 0;
-  color: #2d61a9;
+  color: #2a67c7;
   font-style: italic;
 }
 
@@ -122,7 +122,7 @@ a:hover {
 
 .publication-item {
   padding-left: 0.9rem;
-  border-left: 3px solid #b7b2ac;
+  border-left: 3px solid #9ea9a2;
 }
 
 .small-meta {
