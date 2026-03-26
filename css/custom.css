@@ -4,6 +4,7 @@ body {
   color: #111111;
   margin: 0;
   line-height: 1.5;
+  font-size: 1.06rem;
 }
 
 a {
@@ -23,7 +24,7 @@ a:hover {
 }
 
 .site-nav {
-  background: #212529;
+  background: #31493c;
 }
 
 .site-wrap {
@@ -56,7 +57,7 @@ a:hover {
 }
 
 .name-title {
-  font-size: 1.6rem;
+  font-size: 1.72rem;
   margin-bottom: 0.25rem;
 }
 
@@ -73,7 +74,7 @@ a:hover {
 }
 
 .meta {
-  font-size: 0.95rem;
+  font-size: 1rem;
   margin-bottom: 0.55rem;
 }
 
@@ -109,23 +110,23 @@ a:hover {
 }
 
 .section-title {
-  font-size: 1.35rem;
+  font-size: 1.42rem;
   margin: 0;
   line-height: 1.1;
 }
 
 .subsection-title {
-  font-size: 1.12rem;
+  font-size: 1.18rem;
   margin: 0 0 0.25rem;
 }
 
 .publication-item {
   padding-left: 0.9rem;
-  border-left: 3px solid #d7a8b6;
+  border-left: 3px solid #b7b2ac;
 }
 
 .small-meta {
-  font-size: 0.95rem;
+  font-size: 1rem;
   margin: 0.25rem 0;
 }
 
