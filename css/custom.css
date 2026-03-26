@@ -1,0 +1,168 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background: #fbf8f3;
+  color: #1a1a1a;
+  margin: 0;
+  line-height: 1.45;
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.navbar-brand,
+.nav-link,
+.section-title,
+.subsection-title {
+  font-weight: 600;
+}
+
+.site-nav {
+  background: #212529;
+}
+
+.site-wrap {
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 1rem;
+}
+
+.hero {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.left-block {
+  text-align: center;
+}
+
+.right-block {
+  padding-top: 1cm;
+}
+
+.photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.name-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.subtitle,
+.small-meta,
+.meta {
+  color: #555;
+}
+
+.subtitle {
+  margin: 0;
+}
+
+.meta {
+  font-size: 0.95rem;
+  margin-bottom: 0.55rem;
+}
+
+.links a {
+  margin-right: 0.35rem;
+}
+
+.cv-button {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.45rem 1rem;
+  background: #333;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.cv-button:hover {
+  color: #fff;
+  text-decoration: none;
+  background: #222;
+}
+
+.disclaimer {
+  font-size: 0.82rem;
+  margin-top: 1.5rem;
+}
+
+.section-title {
+  font-size: 1.3rem;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.subsection-title {
+  font-size: 1.08rem;
+  margin: 0 0 0.25rem;
+}
+
+.small-meta {
+  font-size: 0.95rem;
+  margin: 0.25rem 0;
+}
+
+.left-title {
+  padding-right: 0.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.content-col {
+  padding-left: 0.5rem;
+}
+
+.row.no-gutters {
+  margin: 0;
+}
+
+.row.no-gutters > [class*="col-"] {
+  padding: 0.25rem;
+}
+
+.btn-toggle {
+  font-size: 0.75rem;
+  padding: 0.35rem 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.abstract {
+  background: #fbf8f3;
+  padding: 0.75rem;
+  border-left: 3px solid #343a40;
+  margin-top: 0.5rem;
+  display: none;
+  font-size: 0.9rem;
+}
+
+.footer {
+  font-size: 0.9rem;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.cv-frame {
+  width: 100%;
+  min-height: 78vh;
+  border: 0;
+}
+
+@media (max-width: 767.98px) {
+  .right-block {
+    padding-top: 0;
+  }
+}
