@@ -83,6 +83,11 @@ a:hover {
   color: #191919;
 }
 
+.inline-link-muted,
+.inline-link-muted:hover {
+  color: inherit;
+}
+
 .links a {
   margin-right: 0.35rem;
 }
