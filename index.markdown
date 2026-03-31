@@ -16,6 +16,7 @@ sitemap: true
     <p class="meta-line"><strong>Research interests:</strong> time series econometrics, climate and environmental economics, and applied econometrics.</p>
     <p class="meta-line"><strong>Contact:</strong> <a href="mailto:andrey.ramos@bde.es">andrey.ramos@bde.es</a> or <a href="mailto:adramosr@gmail.com">adramosr@gmail.com</a>.</p>
     <p class="profile-links">
+      <a href="https://www.bde.es/wbe/es/areas-actuacion/analisis-e-investigacion/investigadores/investigadores-orden-alfabetico/ramos-ramirez-andrey-david-.html" target="_blank" rel="noopener">Profile BoS</a> |
       <a href="https://scholar.google.com/citations?user=_Y-EbUcAAAAJ&hl=es" target="_blank" rel="noopener">Google Scholar</a> |
       <a href="https://github.com/anramosr" target="_blank" rel="noopener">GitHub</a> |
       <a href="https://www.linkedin.com/in/andrey-ramos-08801b117/" target="_blank" rel="noopener">LinkedIn</a> |
