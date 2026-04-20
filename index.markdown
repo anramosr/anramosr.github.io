@@ -12,7 +12,7 @@ sitemap: true
   </div>
   <div class="col-md-9 intro-panel">
     <p class="lead-text">I am a Research Economist at the <strong>Economic Monitoring and Forecasting Division</strong> of the Bank of Spain.</p>
-    <p class="meta-line">I received my Ph.D. in Economics in 2025 from Universidad Carlos III de Madrid, under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank" rel="noopener">Jesus Gonzalo</a>.</p>
+    <p class="meta-line">I received my Ph.D. in Economics in 2025 from Universidad Carlos III de Madrid, under the supervision of Prof. <a href="https://www.eco.uc3m.es/~jgonzalo/" target="_blank" rel="noopener">Jesús Gonzalo</a>.</p>
     <p class="meta-line"><strong>Research interests:</strong> time series econometrics, climate and environmental economics, and applied econometrics.</p>
     <p class="meta-line"><strong>Contact:</strong> <a href="mailto:andrey.ramos@bde.es">andrey.ramos@bde.es</a> or <a href="mailto:adramosr@gmail.com">adramosr@gmail.com</a>.</p>
     <p class="profile-links">
